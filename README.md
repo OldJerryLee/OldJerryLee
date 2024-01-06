@@ -4,6 +4,8 @@ Hey there! I'm Fabrício Rodrigues Pujol, 36 years old, currently living on Braz
 
 I am a Software Engineer with 5 years of experience in iOS Mobile Development.
 
+- teste
+
 ### Technologies
 
 <div>
