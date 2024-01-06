@@ -1,9 +1,6 @@
 ### About Me
 
-Hey there! I'm Fabrício Rodrigues Pujol, 36 years old, currently living on Brazil.
-
-I am a Software Engineer with 5 years of experience in iOS Mobile Development.
-
+Hello! 👋 My name is Fabrício, and I am an iOS mobile developer with a passion for creating amazing experiences. My journey in development began in 2018 when I decided to switch careers. After years working in the public sector, I pursued something that fueled my curiosity and interest in technology. My first exposure to mobile development was actually during an Android development internship, which opened doors for me to join the Apple Developer Academy in 2019, directing my career towards iOS development. I've been on this path since 2019, engaging in significant projects, both personal and professional.
 
 ### Technologies
 
