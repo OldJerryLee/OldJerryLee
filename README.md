@@ -28,7 +28,7 @@ I am a Software Engineer with 5 years of experience in iOS Mobile Development.
 ### Contacts
 
 <div>
-  <a href="https://instragram.com/bedev.club">
+  <a href="https://www.instagram.com/fabricio.pujol/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/fabriciopujol/">
