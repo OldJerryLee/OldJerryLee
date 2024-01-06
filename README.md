@@ -6,5 +6,8 @@ I am a Software Engineer with 5 years of experience in iOS Mobile Development.
 
 ### Technologies
 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width=60/>
+</div>
 
 ### Contact Me
